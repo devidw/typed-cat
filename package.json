@@ -1,0 +1,8 @@
+{
+  "name": "typed-cat",
+  "version": "12024.8.6",
+  "license": "UNLICENSE",
+  "files": [
+    "index.d.ts"
+  ]
+}
